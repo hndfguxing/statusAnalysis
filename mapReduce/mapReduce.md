@@ -1,5 +1,5 @@
-###mapReduce
-**描述：**常用的mapReduce方法 
+###mapReduce  
+**描述：**常用的mapReduce方法  
 
 ####GetStatusByKey
 **描述：**计算出某天发表的包含指定关键字的微博数  
