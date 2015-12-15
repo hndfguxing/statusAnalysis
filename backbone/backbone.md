@@ -1,5 +1,4 @@
 ##backbone
-**描述：**常用的mapReduce程序  
 
 ####Backbone
 **描述：** 统计转发数>100的转发微博的信息  
